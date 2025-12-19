@@ -1,0 +1,11 @@
+non~vegitemnames~costs
+chickencurrycut~185
+bonelesschickenbreast~276
+chickendrustick~135
+muttonkeema(mince)~192
+fish(sardine'pomfret)~159
+prawns(medium'deshelled)~209
+muttonbiryani~385
+fishfry~260
+chickennutts~198
+chickenseekhkebab~132
