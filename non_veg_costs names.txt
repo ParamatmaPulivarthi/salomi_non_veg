@@ -1,0 +1,2 @@
+non~veg item names~costs names
+prawns curry~150
